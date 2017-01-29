@@ -1,0 +1,21 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "firstName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "lastName",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170128110403",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "users",
+    "pagination": "no",
+    "microserviceName": "microservice",
+    "searchEngine": false
+}

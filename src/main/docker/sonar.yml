@@ -1,0 +1,8 @@
+version: '2'
+services:
+    microservice-sonar:
+        container_name: microservice-sonar
+        image: sonarqube:6.0-alpine
+        ports:
+            - 9000:9000
+            - 9092:9092
